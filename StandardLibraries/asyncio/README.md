@@ -4,6 +4,7 @@
 2. []()
 3. []()
 4. []()
+... and keep searching on Google!
 ### Video tutorials [eng]
 1. [Socratica](https://docs.python.org/3/library/asyncio.html)
 2. [NeuralNine](https://www.youtube.com/watch?v=6RbJYN7SoRs)
@@ -13,3 +14,4 @@
 6. [mCoding](https://www.youtube.com/watch?v=ftmdDlwMwwQ)
 7. [EdgeDB](https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 8. [ArjanCodes](https://www.youtube.com/watch?v=GpqAQxH1Afc)
+... and keep searching on YouTube!
