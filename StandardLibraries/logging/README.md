@@ -1,0 +1,15 @@
+# [logging — Logging facility for Python](https://docs.python.org/3/library/logging.html)
+### Documentation
+1. [docs.python.org](https://docs.python.org/3/library/logging.html)
+2. []()
+3. []()
+4. []()
+### Video tutorials [eng]
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
