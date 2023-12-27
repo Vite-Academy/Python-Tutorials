@@ -13,12 +13,11 @@
 11. [crowdstrike.com](https://www.crowdstrike.com/guides/python-logging/)
 ... and keep searching on Google!
 ### Video tutorials [eng]
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
-6. []()
-7. []()
-8. []()
+1. [Tech With Tim](https://www.youtube.com/watch?v=urrfJgHwIJA)
+2. [ArjanCodes](https://www.youtube.com/watch?v=pxuXaaT1u3k)
+3. [Corey Schafer](https://www.youtube.com/watch?v=-ARI4Cz-awo)
+4. [Indently](https://www.youtube.com/watch?v=NRLSyyYv2N0)
+5. [Socratica](https://www.youtube.com/watch?v=g8nQ90Hk328)
+6. [NeuralNine](https://www.youtube.com/watch?v=m08LtvC3jaY)
+7. [Learning Software](https://www.youtube.com/watch?v=wrpu-Qr_Yvk&list=PLCgehTvigkDPyr-MIjjxuCTMY5jC1BdD7)
 ... and keep searching on YouTube!
