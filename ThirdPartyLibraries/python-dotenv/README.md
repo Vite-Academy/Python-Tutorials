@@ -6,6 +6,6 @@
 4. []()
 ... and keep searching on Google!
 ### Video tutorials [eng]
-1. []()
-
+1. [NeuralNine](https://www.youtube.com/watch?v=8dlQ_nDE7dQ)
+2. []()
 ... and keep searching on YouTube!
