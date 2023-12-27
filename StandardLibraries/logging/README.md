@@ -1,9 +1,17 @@
 # [logging — Logging facility for Python](https://docs.python.org/3/library/logging.html)
 ### Documentation
 1. [docs.python.org](https://docs.python.org/3/library/logging.html)
-2. []()
-3. []()
-4. []()
+2. [docs.python.org/3/howto](https://docs.python.org/3/howto/logging.html)
+3. [realpython.com](https://realpython.com/python-logging/)
+4. [loggly.com](https://www.loggly.com/ultimate-guide/python-logging-basics/)
+5. [betterstack.com](https://betterstack.com/community/guides/logging/how-to-start-logging-with-python/)
+6. [geeksforgeeks.org](https://www.geeksforgeeks.org/logging-in-python/)
+7. [blog.sentry.io](https://blog.sentry.io/logging-in-python-a-developers-guide/)
+8. [toptal.com](https://www.toptal.com/python/in-depth-python-logging)
+9. [habr.com](https://habr.com/ru/companies/wunderfund/articles/683880/)
+10. [machinelearningmastery.com](https://machinelearningmastery.com/logging-in-python/)
+11. [crowdstrike.com](https://www.crowdstrike.com/guides/python-logging/)
+... and keep searching on Google!
 ### Video tutorials [eng]
 1. []()
 2. []()
