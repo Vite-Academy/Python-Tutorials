@@ -1,4 +1,4 @@
-print("go" + "lang")
+print("Py" + "thon")
 print("1+1 =", 1+1)
 print("7.0/3.0 =", 7.0/3.0)
 print(True and False)
