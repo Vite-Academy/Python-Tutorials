@@ -9,4 +9,5 @@
 ... and keep searching on Google!
 ### Video tutorials [eng]
 1. [Corey Schafer](https://www.youtube.com/watch?v=2Fp1N6dof0Y)
+2. [DevOps Journey](https://www.youtube.com/watch?v=_XjKfuH7VXY)
 ... and keep searching on YouTube!
