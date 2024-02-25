@@ -1,19 +1,22 @@
 import wave
 
-wav_file = ""
+# video_audio.wav
+wav_file = "audio.wav"
 
 with wave.open(wav_file, "rb") as wav_file:
 
-# Get information about the WAV file
+# getnchannels() -> Returns number of audio channels (1 for mono, 2 for stereo).
   print(f"Number of channels: {wav_file.getnchannels()}")
+
+# getsampwidth() -> Returns sample width in bytes. (e.g., 2 for 16-bit)
   print(f"Sample width: {wav_file.getsampwidth()}")
+
+# getframerate() -> Returns sampling frequency. Hz (e.g., 44100 = 44.1 kHz)
   print(f"Sampling rate: {wav_file.getframerate()}")
+
+# getnframes() -> Returns number of audio frames in the file.
   print(f"Number of frames: {wav_file.getnframes()}")
-
-  # Read all frames at once
-  frames = wav_file.readframes(wav_file.getnframes())
-
-  # Do something with the frames data, for example, convert it to numpy array
-  # ...
   
+# getcomptype() -> Returns compression type ('NONE' is the only supported type).
+  print(f"Compression type: {wav_file.getnframes()}")
 
