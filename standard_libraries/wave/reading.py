@@ -18,5 +18,14 @@ with wave.open(wav_file, "rb") as wav_file:
   print(f"Number of frames: {wav_file.getnframes()}")
   
 # getcomptype() -> Returns compression type ('NONE' is the only supported type).
-  print(f"Compression type: {wav_file.getnframes()}")
+  print(f"Compression type: {wav_file.getcomptype()}")
 
+# getcompname() -> Human-readable version of getcomptype(). Usually 'not compressed' parallels 'NONE'.
+  print(f"Compression name: {wav_file.getcompname()}")
+
+# getparams() Returns a namedtuple() (nchannels, sampwidth, framerate, nframes, comptype, compname), equivalent to output of the get*() methods.
+  print(f"Parameters: {wav_file.getparams()}")
+
+  audio_time = wav_file.getnframes() / wav_file.getframerate()
+  print(f"Full audio time: {audio_time}s")
+# ...
