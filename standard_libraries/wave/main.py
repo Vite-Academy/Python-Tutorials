@@ -45,6 +45,6 @@ def read_and_write_wav(input_filename, output_filename):
         print(f"Error: {e}")
 
 # Example usage
-input_filename = 'video_audio.wav'
+input_filename = 'audio.wav'
 output_filename = 'new_audio.wav'
 read_and_write_wav(input_filename, output_filename)
