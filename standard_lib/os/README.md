@@ -6,5 +6,5 @@
 4. []()
 ... and keep searching on Google!
 ### Video tutorials [eng]
-1. []()
+1. [Corey Schafer](https://www.youtube.com/watch?v=tJxcKyFMTGo)
 ... and keep searching on YouTube!
