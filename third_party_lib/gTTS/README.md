@@ -8,7 +8,7 @@
 6. []()
 ... and keep searching on Google!
 ### Video tutorials [eng]
-1. []()
+1. [Tech With Tim](https://www.youtube.com/watch?v=-AzGZ_CHzJk&list=PLzMcBGfZo4-mBungzp4GO4fswxO8wTEFx)
 2. []()
 3. []()
 4. []()
