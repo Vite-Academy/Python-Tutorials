@@ -29,6 +29,7 @@ def stt(wav_file):
         # Create a KaldiRecognizer
         rec = KaldiRecognizer(model, wf.getframerate())
 
+
         while True:
             data = wf.readframes(wf.getnframes())  # Process audio in chunks
 
