@@ -1,6 +1,11 @@
 import wave
 import json
-from vosk import Model, KaldiRecognizer
+from vosk import Model, KaldiRecognizer, list_models, list_languages, open_dll
+
+# print(list_models()) # List models
+# print(list_languages()) # List anguages
+# print(open_dll()) # Check sys platform
+
 
 def stt(wav_file):
     # Open the wave file
