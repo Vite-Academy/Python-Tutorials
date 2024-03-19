@@ -4,8 +4,7 @@
 2. []()
 3. []()
 4. []()
-... and keep searching on Google!
+##### ... and keep searching on Google!
 ### Video tutorials [eng]
 1. []()
-
-... and keep searching on YouTube!
+##### ... and keep searching on YouTube!

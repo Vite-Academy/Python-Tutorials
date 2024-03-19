@@ -4,9 +4,8 @@
 2. []()
 3. []()
 4. []()
-... and keep searching on Google!
+##### ... and keep searching on Google!
 ### Video tutorials [eng]
 1. [Tech With Tim](https://www.youtube.com/watch?v=3QiPPX-KeSc)
 2. []()
-
-... and keep searching on YouTube!
+##### ... and keep searching on YouTube!

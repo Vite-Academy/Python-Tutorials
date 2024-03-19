@@ -11,7 +11,7 @@
 9. [habr.com](https://habr.com/ru/companies/wunderfund/articles/683880/)
 10. [machinelearningmastery.com](https://machinelearningmastery.com/logging-in-python/)
 11. [crowdstrike.com](https://www.crowdstrike.com/guides/python-logging/)
-... and keep searching on Google!
+##### ... and keep searching on Google!
 ### Video tutorials [eng]
 1. [Tech With Tim](https://www.youtube.com/watch?v=urrfJgHwIJA)
 2. [ArjanCodes](https://www.youtube.com/watch?v=pxuXaaT1u3k)
@@ -20,4 +20,4 @@
 5. [Socratica](https://www.youtube.com/watch?v=g8nQ90Hk328)
 6. [NeuralNine](https://www.youtube.com/watch?v=m08LtvC3jaY)
 7. [Learning Software](https://www.youtube.com/watch?v=wrpu-Qr_Yvk&list=PLCgehTvigkDPyr-MIjjxuCTMY5jC1BdD7)
-... and keep searching on YouTube!
+##### ... and keep searching on YouTube!
