@@ -1,6 +1,6 @@
-# [vosk](https://github.com/alphacep/vosk-api)
+# [vosk-tts](https://github.com/alphacep/vosk-tts)
 ### Documentation
-1. [github.com](https://github.com/alphacep/vosk-api)
+1. [github.com](https://github.com/alphacep/vosk-tts)
 2. [alphacephei.com](https://alphacephei.com/vosk/)
 3. []()
 4. []()
